@@ -1,0 +1,62 @@
+.navbar nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar nav .search {
+  width: 45%;
+  height: 32.69px;
+  display: flex;
+  align-items: center;
+  background-color: #F5F5FC;
+  border-radius: 20px;
+}
+.navbar nav .search .icon {
+  color: #3326AE;
+  border-right: none;
+  background-color: transparent;
+}
+.navbar nav .search input {
+  width: 420.57px;
+  height: 32.69px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.navbar nav .utilities {
+  display: flex;
+  gap: 35px;
+  cursor: pointer;
+  margin-right: 40px;
+}
+.navbar nav .utilities .utilty {
+  font-size: large;
+  font-weight: 500;
+}
+.navbar nav .users {
+  display: flex;
+  align-content: center;
+  gap: 30px;
+}
+.navbar nav .users .notifications {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.navbar nav .users .notifications .counter {
+  background-color: red;
+  border-radius: 100%;
+  height: 10px;
+  width: 10px;
+  font-size: 10px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.navbar nav .users .userImg {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+}/*# sourceMappingURL=navbar.css.map */

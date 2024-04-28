@@ -1,0 +1,12 @@
+.customers {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  width: 280px;
+  border-radius: 20px;
+  background-color: #F5F5FC;
+  gap: 30px;
+  box-shadow: 20px 25px 5px -8px rgba(176, 143, 143, 0.34);
+  -webkit-box-shadow: 20px 25px 5px -8px rgba(176, 143, 143, 0.34);
+  -moz-box-shadow: 20px 25px 5px -8px rgba(176, 143, 143, 0.34);
+}/*# sourceMappingURL=customers.css.map */

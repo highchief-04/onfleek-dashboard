@@ -1,0 +1,18 @@
+.items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+.items .item {
+  margin-right: 70px;
+}
+.items .item h4 {
+  margin-bottom: 0px;
+}
+.items .item p {
+  margin-top: 0px;
+  color: gray;
+  font-size: 10px;
+  font-size: 500;
+}/*# sourceMappingURL=transaction.css.map */

@@ -1,0 +1,81 @@
+.right {
+  background-color: #F5F5FC;
+  border-radius: 10px;
+}
+.right .wrapper {
+  padding: 25px;
+  height: 500px;
+}
+.right .wrapper .text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right .wrapper .text h2 {
+  font-size: 20px;
+  font-size: 700;
+}
+.right .wrapper .icon {
+  float: right;
+  color: #C4BDD5;
+}
+.right .wrapper .progress {
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+}
+.right .wrapper .progress .percentage {
+  padding-right: 40px;
+  width: 200px;
+  height: 200px;
+}
+.right .wrapper .progress h3 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: -50px;
+  padding: 10px;
+  background-color: #3326AE;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 10px;
+  color: #F5F5FC;
+  box-shadow: 10px 10px 5px 0px rgba(148, 142, 142, 0.67);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(148, 142, 142, 0.67);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(148, 142, 142, 0.67);
+}
+.right .wrapper .card {
+  margin-top: 10px;
+}
+.right .wrapper .card .icon {
+  color: black;
+}
+.right .wrapper .img {
+  width: 295px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  box-shadow: -1px 6px 5px 3px rgba(209, 195, 195, 0.69);
+  -webkit-box-shadow: -1px 6px 5px 3px rgba(209, 195, 195, 0.69);
+  -moz-box-shadow: -1px 6px 5px 3px rgba(209, 195, 195, 0.69);
+}
+.right .wrapper .left-bottom {
+  margin-top: 30px;
+}
+.right .wrapper .left-bottom .add-icon {
+  width: 45px;
+  height: 45px;
+  color: white;
+  background-color: orangered;
+  border-radius: 12px;
+}
+.right .wrapper .left-bottom .transaction-logo {
+  color: orangered;
+  padding: 15px;
+  border-radius: 7px;
+  background-color: white;
+}/*# sourceMappingURL=right.css.map */
